@@ -161,3 +161,6 @@ cython_debug/
 # local project files
 img.cache
 print.json
+images*
+io
+subprocess
